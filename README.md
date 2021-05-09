@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pendela Neelesh
+- 👋 Hi, I’m PendelaNeelesh
 - 👀 I’m interested in Coding and IoT
 - 🌱 I’m currently improving my coding skills, learning IoT
 - 💞️ I’m looking to collaborate on IoT projects.
